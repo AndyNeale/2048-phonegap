@@ -40,7 +40,7 @@ body {
 }
 
 h1.title {
-  font-size: 48px;
+  font-size: 36px;
   font-weight: bold;
   margin: 16px 0;
   display: block;
@@ -542,7 +542,6 @@ hr {
   }
 
   .restart-button {
-    width: 42%;
     padding: 0;
     display: block;
     box-sizing: border-box;
@@ -554,7 +553,7 @@ hr {
 
   // Rest of the font-size adjustments in the tile class
   .tile .tile-inner {
-    font-size: 35px;
+    font-size: 20px;
   }
 
   .game-message {

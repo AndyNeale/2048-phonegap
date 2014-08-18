@@ -16,7 +16,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 48px;
+  font-size: 36px;
   font-weight: bold;
   margin: 16px 0;
   display: block;
@@ -574,7 +574,6 @@ hr {
     line-height: 1.65; }
 
   .restart-button {
-    width: 42%;
     padding: 0;
     display: block;
     box-sizing: border-box;
@@ -741,7 +740,7 @@ hr {
     transform: translate(202px, 202px); }
 
   .tile .tile-inner {
-    font-size: 35px; }
+    font-size: 20px; }
 
   .game-message p {
     font-size: 30px !important;
